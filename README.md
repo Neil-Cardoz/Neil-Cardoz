@@ -5,15 +5,7 @@
 </div>
 
 <!-- Custom CSS for hover effects -->
-<style>
-  .tech-stack img {
-    margin: 0 10px;
-    transition: transform 0.3s ease-in-out;
-  }
-  .tech-stack img:hover {
-    transform: scale(1.2) rotate(10deg);
-  }
-</style>
+
 
 <div align="center">
   
