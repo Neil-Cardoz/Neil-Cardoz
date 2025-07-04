@@ -11,7 +11,7 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/Neil-Cardoz?style=social)](https://github.com/Neil-Cardoz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/neilcardoz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://neil-cardoz.github.io)
+[![Portfolio](my-portfoilo-vert.vercel.app)
 
 </div>
 
