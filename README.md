@@ -15,11 +15,8 @@
 
 </div>
 <a href="https://my-portfolio-brown.vercel.app/">
-  <img src="[[https://your-image-host.com/image.png](https://static.vecteezy.com/system/resources/previews/011/824/530/non_2x/view-portfolio-button-speech-bubble-view-portfolio-web-banner-template-illustration-vector.jpg)](https://static.vecteezy.com/system/resources/previews/011/824/530/non_2x/view-portfolio-button-speech-bubble-view-portfolio-web-banner-template-illustration-vector.jpg)" alt="My Portfolio">
-</a>
-<a href="https://github.com/Neil-Cardoz">
-<img src="https://img.shields.io/badge/Profile-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Profile">
-</a>
+  <img src="[(https://static.vecteezy.com/system/resources/previews/011/824/530/non_2x/view-portfolio-button-speech-bubble-view-portfolio-web-banner-template-illustration-vector.jpg)](https://static.vecteezy.com/system/resources/previews/011/824/530/non_2x/view-portfolio-button-speech-bubble-view-portfolio-web-banner-template-illustration-vector.jpg)" alt="My Portfolio">
+
 
 
 
