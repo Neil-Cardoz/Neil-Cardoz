@@ -1,13 +1,16 @@
 # <div align="center">👨‍💻 Hi, I'm Neil Cardoz</div>
 
 <!-- Custom CSS for hover effects -->
+<div align="center">
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/neutrinoneil)
 
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/Neil-Cardoz?style=social)](https://github.com/Neil-Cardoz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/neilcardoz)
-[![Portfolio](my-portfoilo-brown.vercel.app)
+<a href="https://my-portfolio-brown.vercel.app/">
+  <img src="[https://your-image-host.com/image.png](https://static.vecteezy.com/system/resources/previews/011/824/530/non_2x/view-portfolio-button-speech-bubble-view-portfolio-web-banner-template-illustration-vector.jpg)" alt="My Portfolio">
+</a>
 
 
 </div>
