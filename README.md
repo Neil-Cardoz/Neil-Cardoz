@@ -56,10 +56,9 @@ Here are some of the technologies and tools I'm proficient in:
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Neil-Cardoz&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
-  <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100" />
 </div>
-<div align="center">
+<img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100" />
+
 
 
 
