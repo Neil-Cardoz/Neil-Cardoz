@@ -1,14 +1,14 @@
 # <div align="center">👨‍💻 Hi, I'm Neil Cardoz</div>
 
 <!-- Custom CSS for hover effects -->
-
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/neutrinoneil)
 
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/Neil-Cardoz?style=social)](https://github.com/Neil-Cardoz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/neilcardoz)
 [![Portfolio](my-portfoilo-brown.vercel.app)
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/yourusername)
+
 
 </div>
 
