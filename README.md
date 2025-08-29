@@ -13,9 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neilcardoz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfoilo-brown.vercel.app)
 
-</div>
-<a href="https://my-portfoilo-brown.vercel.app/">
-  <img src="[(https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://static.vecteezy.com/system/resources/previews/011/824/530/non_2x/view-portfolio-button-speech-bubble-view-portfolio-web-banner-template-illustration-vector.jpg)" alt="My Portfolio">
 
 
 
@@ -131,6 +128,7 @@
   
   <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100" />
 </div>
+<div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Neil-Cardoz?style=social)](https://github.com/Neil-Cardoz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/neilcardoz)
