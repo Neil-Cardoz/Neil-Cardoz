@@ -1,10 +1,5 @@
 # <div align="center">👨‍💻 Hi, I'm Neil Cardoz</div>
 
-<div style="text-align: center;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3F91F7&center=true&vCenter=true&repeat=true&width=500&lines=Full+Stack+Developer+⚡;Software+Engineer+💻;Tech+Enthusiast+🚀" alt="Typing SVG" />
-</div>
-
-
 <!-- Custom CSS for hover effects -->
 
 
@@ -12,7 +7,7 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/Neil-Cardoz?style=social)](https://github.com/Neil-Cardoz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/neilcardoz)
-[![Portfolio](my-portfoilo-vert.vercel.app)
+[![Portfolio](my-portfoilo-brown.vercel.app)
 
 </div>
 
