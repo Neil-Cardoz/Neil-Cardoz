@@ -2,10 +2,18 @@
 
 <!-- Custom CSS for hover effects -->
 <div align="center">
-  
+
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/neutrinoneil)
-[![GitHub followers](https://img.shields.io/github/followers/Neil-Cardoz?style=social)](https://github.com/Neil-Cardoz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/neilcardoz)
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neilcardoz1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neilcardoz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://neil-cardoz.github.io](https://my-portfolio-brown.vercel.app))
+
+</div>
 <a href="https://my-portfolio-brown.vercel.app/">
   <img src="[https://your-image-host.com/image.png](https://static.vecteezy.com/system/resources/previews/011/824/530/non_2x/view-portfolio-button-speech-bubble-view-portfolio-web-banner-template-illustration-vector.jpg)" alt="My Portfolio">
 </a>
@@ -117,15 +125,7 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neilcardoz1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neilcardoz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://neil-cardoz.github.io)
-
-</div>
 
 ---
 
@@ -134,3 +134,6 @@
   
   <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100" />
 </div>
+
+[![GitHub followers](https://img.shields.io/github/followers/Neil-Cardoz?style=social)](https://github.com/Neil-Cardoz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/neilcardoz)
