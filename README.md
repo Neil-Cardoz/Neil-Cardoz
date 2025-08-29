@@ -1,10 +1,6 @@
 # <div align="center">👨‍💻 Hi, I'm Neil Cardoz</div>
 
 <!-- Custom CSS for hover effects -->
-<div align="center">
-
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/neutrinoneil)
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect
 
 <div align="center">
@@ -59,6 +55,8 @@ Here are some of the technologies and tools I'm proficient in:
 </div>
 <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100" />
 
+<div align="center">
 
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/neutrinoneil)
 
 
