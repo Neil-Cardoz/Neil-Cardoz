@@ -1,8 +1,9 @@
 # <div align="center">👨‍💻 Hi, I'm Neil Cardoz</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3F91F7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+⚡;Software+Engineer+💻;Tech+Enthusiast+🚀" alt="Typing SVG" />
+<div style="text-align: center;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3F91F7&center=true&vCenter=true&repeat=true&width=500&lines=Full+Stack+Developer+⚡;Software+Engineer+💻;Tech+Enthusiast+🚀" alt="Typing SVG" />
 </div>
+
 
 <!-- Custom CSS for hover effects -->
 
