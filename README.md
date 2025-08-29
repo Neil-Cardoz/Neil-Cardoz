@@ -14,7 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]((https://my-portfoilo-brown.vercel.app))
 
 </div>
-<a href="https://my-portfolio-brown.vercel.app/">
+<a href="https://my-portfoilo-brown.vercel.app/">
   <img src="[(https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://static.vecteezy.com/system/resources/previews/011/824/530/non_2x/view-portfolio-button-speech-bubble-view-portfolio-web-banner-template-illustration-vector.jpg)" alt="My Portfolio">
 
 
