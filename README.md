@@ -51,12 +51,14 @@ Here are some of the technologies and tools I'm proficient in:
 ---
 
 <div align="center">
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/neutrinoneil)
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Neil-Cardoz&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 
-<div align="center">
 
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/neutrinoneil)
 
 
