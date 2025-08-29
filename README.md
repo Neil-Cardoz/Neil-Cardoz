@@ -32,13 +32,6 @@
 
 💬 Let's connect and talk about all things tech!
 
-### 🎯 What I'm Currently Working On
-
-- 🌤️ [Weather Dashboard](https://github.com/Neil-Cardoz/Weather-Dashboard) - Real-time weather visualization using React and FastAPI
-- 🔍 Exploring new technologies and frameworks
-- 📚 Learning cloud architecture and DevOps practices
-- 🤝 Looking to collaborate on innovative projects
-
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack
 
 <div align="center">
@@ -56,19 +49,7 @@ Here are some of the technologies and tools I'm proficient in:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neil-Cardoz&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neil-Cardoz&theme=radical" alt="GitHub Streak" />
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Weather Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Neil-Cardoz&repo=Weather-Dashboard&theme=radical)](https://github.com/Neil-Cardoz/Weather-Dashboard)
-
-
 </div>
 
 ---
