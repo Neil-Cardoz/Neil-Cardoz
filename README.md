@@ -55,7 +55,7 @@ Here are some of the technologies and tools I'm proficient in:
     height="165"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Neil-Cardoz&theme=radical"
+    [Neil Cardoz's Stats](https://github-readme-stats.vercel.app/api?username=Neil-Cardoz&hide=contribs,prs)
     height="165"
   />
 </div>
