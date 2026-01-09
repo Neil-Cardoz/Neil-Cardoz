@@ -44,26 +44,22 @@ Here are some of the technologies and tools I'm proficient in:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Profile Views -->
   <img
     src="https://komarev.com/ghpvc/?username=Neil-Cardoz&label=Profile%20Views&color=ff69b4&style=flat"
-    alt="Profile Views"
   />
 
   <br/><br/>
 
-  <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Neil-Cardoz&show_icons=true&theme=radical"
-    alt="Neil Cardoz's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Neil-Cardoz&show_icons=true&theme=radical&cache_seconds=1800"
     height="165"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=Neil-Cardoz&theme=radical"
-    alt="Neil Cardoz's GitHub Streak"
     height="165"
   />
 </div>
+
 
 
 
