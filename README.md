@@ -52,7 +52,7 @@ Here are some of the technologies and tools I'm proficient in:
 
   <img
     src="https://github-readme-stats.vercel.app/api?username=Neil-Cardoz&show_icons=true&theme=radical&cache_seconds=1800"
-    height="165"
+    
   />
   <img
     ![Neil Cardoz's Stats](https://github-readme-stats.vercel.app/api?username=Neil-Cardoz&hide=contribs,prs)
